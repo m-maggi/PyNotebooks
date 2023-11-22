@@ -1,0 +1,2 @@
+polars >= 0.19.14
+model-diagnostics >= 1.0.2
