@@ -1,2 +1,2 @@
-polars >= 0.19.14
-model-diagnostics >= 1.0.2
+polars >= 0.20.2
+model-diagnostics >= 1.0.3
